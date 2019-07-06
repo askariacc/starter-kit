@@ -16,8 +16,8 @@
 		 ?>
 	</head>
 	<body>
-		<div class="page page-home">
-			<h1>صفحه خانه</h1>
+		<div class="page page-status">
+			<?php include './block/status/status.intro.php' ?>
 		</div>
 
 		<?php include 'common/js.php'; ?>
